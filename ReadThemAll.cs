@@ -6,7 +6,7 @@ using System.IO;
 
 namespace readThemAll
 {
-    class Program
+    class ReadThemAll
     {
         static void Main(string[] args)
         {
